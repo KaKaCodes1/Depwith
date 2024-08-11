@@ -10,4 +10,11 @@ Currently, two official plugins are available:
 # 
 Built this during GoMyCode React Masterclass.<br>
 The source repo: https://github.com/markmuthii/react-js-masterclass
+
+## Requirements
+<ol>
+  <li>Make the display of success and error messages possible.</li>
+  <li>Work on the dynamic update of the transactions history table</li>
+  <li>Seperate components while making the share states</li>
+</ol>
   
